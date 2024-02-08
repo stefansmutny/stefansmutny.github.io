@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  google-analytics: ""
+  google-analytics: "G-077ZYQP8M3"
   title: "Stefan Smutny"
   search: true
   favicon: "siegel.svg"
