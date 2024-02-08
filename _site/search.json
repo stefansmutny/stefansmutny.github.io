@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fabian Prettenthaler",
+    "section": "",
+    "text": "Welcome to my academic website. I am a PhD student at the University of Vienna.\nI’m particularly intrigued by the dynamics of life cycles, financial constraints, and broader macroeconomic principles. I employ a blend of empirical and quantitative methodologies to explore and address my research questions."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/RETT/index.html",
+    "href": "posts/RETT/index.html",
+    "title": "The Real Estate Transfer Tax and Financial Constraints",
+    "section": "",
+    "text": "In Germany, households tend to maintain their house size as they age, even when faced with financial constraints. This reluctance to adjust might be attributed to the high transfer taxes imposed on real estate, which in turn limit the liquidity of the real estate market. My project aims to delve into the shifts in consumption behavior, particularly during retirement, by examining the impact of reduced real estate transfer taxes. I’m using micro data from Germany to gain detailed insights and employ a life-cycle model featuring heterogeneous agents to scrutinize consumption patterns across different life stages."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Real Estate Transfer Tax and Financial Constraints\n\n\n\nwork in progress\n\n\n\n\n\n\n\nFabian Prettenthaler\n\n\nNov 24, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Fabian Prettenthaler",
+    "section": "Education",
+    "text": "Education\nUniversity of Vienna\n\nPhD in Economics | 2021 - present\nMSc in Economics | 2014 - Jun 2021\n\nVienna University of Business and Economics\n\nBSc in Economics | 2014- 2018"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Fabian Prettenthaler",
+    "section": "Interests",
+    "text": "Interests\n\nWealth inequality\nLife-cycle dynamics\nHeterogeneous agents"
+  },
+  {
+    "objectID": "index.html#work-in-progress",
+    "href": "index.html#work-in-progress",
+    "title": "Fabian Prettenthaler",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nThe Real Estate Transfer Tax and Financial Constraints Details\nNascent Entrepreneurs and the Role of Risk Preferences with B Hochmuth, and M Merz (both University of Vienna)"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Fabian Prettenthaler",
+    "section": "Teaching",
+    "text": "Teaching\n\nUE Applied Macroeconomics (MA) (2023W)\n\nLecturer\n\nKU Advanced Macroeconomics (MA) (2023S)\n\nTA for Monika Gehrig-Merz\n\nUE Applied Macroeconomics (MA) (2022W)\n\nLecturer"
+  }
+]

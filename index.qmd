@@ -1,0 +1,108 @@
+---
+title: ""
+image: Stefan_Homepage.png
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:stefan.smutny@univie.ac.at
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/stefan1195?lang=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://at.linkedin.com/in/stefan-smutny-21b509124
+    - icon: geo-alt
+      href: https://ufind.univie.ac.at/de/person.html?id=117176
+---
+
+# Hi, I'm Stefan!
+
+I am a third year Ph.D. student at the University of Vienna. My research fields include applied econometrics, macro public finance, international economics and economic history.
+
+My doctoral thesis focuses on the macroeconomic implications of fiscal federalism. I believe that fiscal decentralization plays an important role for many key aspects of macroeconomics, including stabilization policies, regional disparities, migration and social welfare. 
+
+------------------------------------------------------------------------
+
+## Short Bio
+
+**Education**
+
+- PhD in Economics, University of Vienna (VGSE) \| 2021 - present
+
+- MSc in Economics, University of Wisconsin-Madison \| 2019 - 2021
+
+- BSc in Economics, University of Vienna \| 2015 - 2018
+
+**Academic Positions**
+
+- Graduate Researcher and Lecturer, University of Vienna \| 2021 - present
+
+- Researcher, Center for Research on the Wisconsin Economy (University of Wisconsin-Madison) \| 2020 - 2021
+
+- Research Assistant, Oesterreichische Nationalbank \| 2017
+
+------------------------------------------------------------------------
+
+## Research
+
+**Working Papers**
+
+- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with Kirsten Wandschneider)
+
+  [CEPR Discussion Paper](https://cepr.org/publications/dp18729) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  Abstract
+</a> <br>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body no-border">
+    This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
+</div>
+
+
+- "Discretionary Policy under Fiscal Decentralization: A Cross-Country Analysis" 
+
+  [Poster](StabilizationPolicy_Poster.pdf) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  Abstract
+</a> <br>
+<div class="collapse" id="collapseExample2" style="border: none;">
+  <div class="card card-body no-border">
+    This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
+</div>
+
+- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with Ashim Dubey)
+
+  [Preliminary Draft](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  Abstract
+</a> <br>
+<div class="collapse" id="collapseExample3" style="border: none;">
+  <div class="card card-body no-border">
+    Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
+</div>
+
+**Work in Progress**
+
+- "Profit Margins on the Move: The Role of State Income Tax Adoptions in Firm Relocations"
+
+**Other Projects**
+
+- "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) ([CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/))
+
+------------------------------------------------------------------------
+
+## Teaching
+
+-   UE Introductory Econometrics (MA) [(2023W](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2023W), [2022W)](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2022W)
+
+    -   Lecturer
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,11 @@
+---
+title: "The Real Estate Transfer Tax and Financial Constraints"
+categories: [work in progress]
+image: "RETT.png"
+---
+
+In Germany, households tend to maintain their house size as they age, even when faced with financial constraints. This reluctance to adjust might be attributed to the high transfer taxes imposed on real estate, which in turn limit the liquidity of the real estate market. My project aims to delve into the shifts in consumption behavior, particularly during retirement, by examining the impact of reduced real estate transfer taxes. I'm using micro data from Germany to gain detailed insights and employ a life-cycle model featuring heterogeneous agents to scrutinize consumption patterns across different life stages.
+
+------------------------------------------------------------------------
+
+[Poster](Poster.pdf)

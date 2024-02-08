@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  google-analytics: ""
+  title: "Stefan Smutny"
+  search: true
+  favicon: "siegel.svg"
+  navbar:
+    right:
+      - text: Curriculum Vitae
+        href: CV/CV_Stefan.pdf
+  page-footer:
+    background: light
+    left:
+      - "Copyright 2024, Stefan Smutny"
+        
+format:
+  html:
+    theme: journal
+    css: styles.css
+    fontsize: 0.9em
+    
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+
+editor: visual
+
