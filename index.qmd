@@ -1,5 +1,4 @@
 ---
-title: ""
 image: Stefan_Homepage.png
 about:
   template: trestles
