@@ -50,7 +50,7 @@ My doctoral thesis focuses on the macroeconomic implications of fiscal federalis
 
 **Working Papers**
 
-- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with Kirsten Wandschneider)
+- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/))
 
   [CEPR Discussion Paper](https://cepr.org/publications/dp18729) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
@@ -68,10 +68,10 @@ My doctoral thesis focuses on the macroeconomic implications of fiscal federalis
 </a> <br>
 <div class="collapse" id="collapseExample2" style="border: none;">
   <div class="card card-body no-border">
-    This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
+    This paper examines the impact of fiscal decentralization on discretionary fiscal policies, focusing on how central and subnational entities respond to negative output gap shocks and their effectiveness. Through a cross-country analysis from 1990 to 2021 across 37 countries, two key findings have been generated. First, countries with greater decentralization experience reduced fluctuations in discretionary expenditures, supporting the claim that highly decentralized nations impose budgetary constraints on central governments. Second, there is a correlation between decentralization and fluctuations in subnational discretionary spending, with increased autonomy leading to more spending changes. However, these increased expenditures have limited or even adverse effects on the output gap, possibly due to the lack of coordination among subnational governments. These findings provide empirical evidence of negative externalities associated with fiscal decentralization. </div>
 </div>
 
-- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with Ashim Dubey)
+- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with [Ashim Dubey](https://sites.google.com/view/ashim-dubey))
 
   [Preliminary Draft](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
