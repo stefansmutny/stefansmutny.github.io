@@ -22,7 +22,9 @@ about:
 
 I am a third year Ph.D. student at the University of Vienna. My research fields include applied econometrics, macro public finance, international economics and economic history.
 
-My doctoral thesis focuses on the macroeconomic implications of fiscal federalism. I believe that fiscal decentralization plays an important role for many key aspects of macroeconomics, including stabilization policies, regional disparities, migration and social welfare. 
+My doctoral thesis focuses on the macroeconomic implications of fiscal federalism. I believe that fiscal decentralization plays an important role for many key aspects of macroeconomics, including stabilization policies, regional disparities, migration and social welfare.
+
+My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz) and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/).
 
 ------------------------------------------------------------------------
 
@@ -83,7 +85,7 @@ My doctoral thesis focuses on the macroeconomic implications of fiscal federalis
 
 **Work in Progress**
 
-- "Profit Margins on the Move: The Role of State Income Tax Adoptions in Firm Relocations"
+- "Interstate Firm Relocations and the Role of Unharmonized Income Tax Adoptions"
 
 **Other Projects**
 
