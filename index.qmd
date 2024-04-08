@@ -50,6 +50,19 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 ## Research
 
+**Work in Progress**
+
+- "Interstate Firm Relocations and the Role of Unharmonized Income Tax Adoptions"
+
+  <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  Preliminary Abstract
+</a> <br>
+<div class="collapse" id="collapseExample2" style="border: none;">
+  <div class="card card-body no-border">
+    This paper explores the effects of corporate income tax adoptions on US internal firm relocations in the early 20th century. The historical setting  allows the investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, where 16 states introduced a tax on corporate income. Newly linked employer level data and self-collected firm data together with a structural gravity model enable the causal estimation of tax effects on firm relocation flows. Preliminary results suggest a significant increase in interstate firm flows by 13.02% on average. The strongest effects are found for bordering states. Insignificant estimates of these tax adoptions on government spending suggest that these short-run mobility increases are driven by outflows.  </div>
+</div>
+
+
 **Working Papers**
 
 - "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/))
@@ -83,11 +96,11 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
 
-**Work in Progress**
+**Technical Notes and Other Projects**
 
-- "Interstate Firm Relocations and the Role of Unharmonized Income Tax Adoptions"
+- "Identifying Directional Challenges in Gravity Equations with Balanced Dyadic Panel Data"
 
-**Other Projects**
+  [Note](Note_Direction.pdf)
 
 - "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) ([CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/))
 
