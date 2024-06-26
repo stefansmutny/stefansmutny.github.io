@@ -20,9 +20,9 @@ about:
 
 # Hi, I'm Stefan!
 
-I am a third year Ph.D. student at the University of Vienna. My research fields include applied econometrics, macro public finance, international economics and economic history.
+I am a third year Ph.D. student at the University of Vienna. My research fields include applied econometrics, public finance, international economics and economic history.
 
-My doctoral thesis focuses on the macroeconomic implications of fiscal federalism. I believe that fiscal decentralization plays an important role for many key aspects of macroeconomics, including stabilization policies, regional disparities, migration and social welfare.
+My doctoral thesis focuses on the macroeconomic implications of fiscal federalism. Hereby, I explore how fiscal decentralization impacts key aspects of macroeconomics, including stabilization policies, regional disparities, migration and social welfare.
 
 My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz) and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/).
 
@@ -32,7 +32,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 **Education**
 
-- PhD in Economics, University of Vienna (VGSE) \| 2021 - present
+- PhD in Economics, University of Vienna (Oskar Morgenstern Doctoral School) \| 2021 - present
 
 - MSc in Economics, University of Wisconsin-Madison \| 2019 - 2021
 
@@ -52,14 +52,14 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 **Work in Progress**
 
-- "Interstate Firm Relocations and the Role of Unharmonized Income Tax Adoptions"
+- "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
 
   <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Preliminary Abstract
 </a> <br>
 <div class="collapse" id="collapseExample2" style="border: none;">
   <div class="card card-body no-border">
-    This paper explores the effects of corporate income tax adoptions on US internal firm relocations in the early 20th century. The historical setting  allows the investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, where 16 states introduced a tax on corporate income. Newly linked employer level data and self-collected firm data together with a structural gravity model enable the causal estimation of tax effects on firm relocation flows. Preliminary results suggest a significant increase in interstate firm flows by 13.02% on average. The strongest effects are found for bordering states. Insignificant estimates of these tax adoptions on government spending suggest that these short-run mobility increases are driven by outflows.  </div>
+    This paper explores the effects of corporate income tax adoptions on US interstate firm relocations during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, during which 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enable a quantification of firm relocation flows caused by tax adoptions. The analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions. Further disaggregation by sector demonstrates pronounced effects in the manufacturing, mercantile, service, and utility sectors, while the financial sector, which is less mobile, shows no significant effects. The adopted tax rates, particularly the marginal increases at the minimum, play a significant role in driving these effects. The absence of a corresponding increase in government spending following the tax adoptions suggests that these short-term mobility increases are driven primarily by outflows.  </div>
 </div>
 
 
