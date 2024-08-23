@@ -1,18 +1,29 @@
+
 project:
-  type: website
-  output-dir: docs
+ type: website
+ output-dir: docs
 
 website:
   google-analytics: "G-077ZYQP8M3"
   title: "Stefan Smutny"
-  search: true
+  search: false
   favicon: "siegel.svg"
   navbar:
-    right:
-      - text: Curriculum Vitae
-        href: CV/CV_Stefan.pdf
+    tools:
+      - icon: envelope-at
+        text: Email
+        href: mailto:stefan.smutny@univie.ac.at
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/stefan1195?lang=en
+      - icon: linkedin
+        text: LinkedIn
+        href: https://at.linkedin.com/in/stefan-smutny-21b509124
+      - icon: geo-alt
+        text: Where
+        href: https://ufind.univie.ac.at/de/person.html?id=117176
   page-footer:
-    background: light
+    background: primary
     left:
       - "Copyright 2024, Stefan Smutny"
         
