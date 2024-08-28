@@ -26,7 +26,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 - "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
 
-  *Job Market Paper* (Draft comming soon!) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  *Job Market Paper* (Draft coming soon!) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample1" style="border: none;">
