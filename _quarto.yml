@@ -9,7 +9,7 @@ website:
   search: false
   favicon: "siegel.svg"
   navbar:
-    tools:
+    right:
       - icon: envelope-at
         text: Email
         href: mailto:stefan.smutny@univie.ac.at
