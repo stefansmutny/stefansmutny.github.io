@@ -13,15 +13,19 @@ website:
       - icon: envelope-at
         text: Email
         href: mailto:stefan.smutny@univie.ac.at
+        target: _blank
       - icon: twitter
         text: Twitter
         href: https://twitter.com/stefan1195?lang=en
+        target: _blank
       - icon: linkedin
         text: LinkedIn
         href: https://at.linkedin.com/in/stefan-smutny-21b509124
+        target: _blank
       - icon: geo-alt
         text: Where
         href: https://ufind.univie.ac.at/de/person.html?id=117176
+        target: _blank
   page-footer:
     background: primary
     left:
