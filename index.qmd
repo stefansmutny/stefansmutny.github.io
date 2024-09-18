@@ -2,25 +2,25 @@
 image: Stefan_Homepage.png
 about:
   template: trestles
-  image-shape: round
+  image-shape: rounded
   image-width: 20em
-  links:
-    - text: Curriculum Vitae
-      href: CV/CV_Stefan.pdf
-      target: _blank
+#  links:
+ #   - text: Curriculum Vitae
+  #    href: CV/CV_Stefan.pdf
+   #   target: _blank
 ---
 
-# Hi, I'm Stefan!
+# Hi, I'm Stefan! 
 
-I am a fourth year Ph.D. student at the [University of Vienna](https://econ.univie.ac.at/). My research fields include public finance, applied econometrics, international macroeconomics and economic history. Currently, I am a visiting graduate researcher at [UCLA](https://economics.ucla.edu/).
+I am a fourth year Ph.D. student at the [University of Vienna](https://econ.univie.ac.at/), with a Master's from the [University of Wisconsin-Madison](https://econ.wisc.edu/). Currently, I am a visiting graduate researcher at [UCLA](https://economics.ucla.edu/).
 
-I use empirical tools to investigate how fiscal decentralization directly and indirectly impacts firm relocations, migration, stabilization policies, labor market outcomes or social welfare.
+My research fields include public finance, applied econometrics, international macroeconomics and economic history. Specifically, I use empirical tools in historical and contemporary settings to investigate how fiscal decentralization directly and indirectly impacts economies.
 
 My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz){target="_blank"} and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/){target="_blank"}.
 
-I will be on the 2024/25 academic job market.
+**I will be on the 2024/25 academic job market. Check out my CV [here](CV_Stefan.pdf){target="_blank"}.**
 
-------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
 ## Research
 
@@ -76,7 +76,7 @@ I will be on the 2024/25 academic job market.
 
 - "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) ([CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"})
 
-------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
 ## Short Bio
 
@@ -98,7 +98,7 @@ I will be on the 2024/25 academic job market.
 
 - Research Assistant, Oesterreichische Nationalbank \| 2017
 
-------------------------------------------------------------------------
+# ------------------------------------------------------------------------
 
 ## Teaching
 
