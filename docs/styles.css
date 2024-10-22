@@ -1,6 +1,5 @@
 /* css styles */
 
-
     .download-btn {
         display: inline-block;
         padding: 10px 20px;
@@ -23,5 +22,193 @@
     border: none !important;
 }
 
+/* Responsive typography */
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Better link styling */
+a {
+    color: #eb6864;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+/* Improved abstract collapse styling */
+
+.card.no-border {
+    padding: 0.6rem;
+    background-color: #f8f7f6;
+    border-radius: 4px;
+    margin-bottom: 1rem !important;
+    margin-top: -0.6rem !important;  
+}
+
+/* Improved navigation */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Better spacing for sections */
+h1, h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Improved mobile responsiveness */
+@media screen and (max-width: 768px) {
+    .grid {
+        margin: 0 1rem;
+    }
+    
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+}
+
+.quarto-title-block .quarto-title-banner {
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .quarto-about-trestles .about-entity {
+        margin-top: 2rem !important;  /* Using !important to override template styles */
+        margin-bottom: 2rem !important;
+    }
+    
+    .quarto-about-trestles .about-image-container {
+        padding-top: 2rem !important;
+    }
+    
+    /* Additional safety margin for the image */
+    .quarto-about-trestles .about-image {
+        margin-top: 2rem !important;
+    }
+}
+
+/* Also, let's add some general spacing improvements */
+.quarto-about-trestles {
+    padding-top: 1rem;
+}
+
+.about-contents {
+    padding-top: 1.5rem;
+}
 
 
+ul li li {
+    list-style-type: "▸ ";    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crimson Pro', serif !important;  /* Added !important to override template styles */
+    font-weight: 600;
+}
+
+.navbar-brand, .nav-link {
+    font-family: 'Crimson Pro', serif !important;
+}
+
+/* Optional: adjust size and weight if needed */
+.navbar-brand {
+    font-size: 1.3rem !important;
+    font-weight: 600;
+}
+
+.nav-link {
+    font-size: 1.1rem !important;
+    font-weight: 500;
+}
+
+h1:first-of-type {
+    margin-top: 0 !important;
+    padding-top: 0.5rem !important;
+}
+
+
+/* If needed, also target the container of Research and Work in Progress */
+.content h2,
+.content strong,
+.content-visible h2,
+#research, 
+#short-bio, 
+#teaching {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    text-indent: 0 !important;
+}
+
+
+/* Adjust section margins and header spacing */
+section {
+    margin: 1.5rem 0 0.5rem 0 !important;  /* Reduced bottom margin */
+    margin-top: -3rem !important;
+    padding: 1.5rem 1.5rem 1rem !important;
+    background: #f8f7f6;
+    border-radius: 4px;
+}
+
+/* Target the specific headers */
+h2 {
+    margin-top: 2.5rem !important;
+    margin-bottom: 1.5rem !important;
+    position: relative;
+    color: #2c3e50;
+}
+
+/* Rest of your styles remain the same */
+h2::after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 0;
+    width: 3rem;
+    height: 2px;
+    background: #2c3e50;
+    opacity: 0.2;
+}
+
+section:last-of-type {
+    margin-bottom: 0 !important;
+    padding-bottom: 0.5rem !important;  /* Reduced padding at bottom */
+}
+
+/* Force away the line division */
+.grid {
+    border: none !important;
+}
+
+.grid > * {
+    border: none !important;
+}
+
+.about-entity {
+    border: none !important;
+}
+
+.quarto-about-trestles {
+    border: none !important;
+}
+
+.quarto-about-trestles .grid {
+    border: none !important;
+}
+
+.quarto-about-trestles .grid > * {
+    border: none !important;
+}
+
+.quarto-about-trestles .about-entity {
+    border: none !important;
+}
+
+div[class*="about"] {
+    border: none !important;
+}

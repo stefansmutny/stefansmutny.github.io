@@ -38,9 +38,16 @@ format:
     fontsize: 0.9em
     
     grid: 
-      body-width: 2000px
-      sidebar-width: 200px
-      margin-width: 200px
+      body-width: 1200px
+      sidebar-width: 250px
+      margin-width: 250px
+    
+    include-in-header:
+      - text: |
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+    mainfont: "Crimson Pro"
+    headingfont: "Crimson Pro"
 
 editor: visual
 

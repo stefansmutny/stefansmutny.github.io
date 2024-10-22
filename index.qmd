@@ -2,42 +2,39 @@
 image: Stefan_Homepage.png
 about:
   template: trestles
-  image-shape: rounded
-  image-width: 20em
-#  links:
- #   - text: Curriculum Vitae
-  #    href: CV/CV_Stefan.pdf
-   #   target: _blank
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: "Google Scholar"
+      href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
+      icon: mortarboard
 ---
 
 # Hi, I'm Stefan! 
 
-I am a fourth year Ph.D. student at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, with a Master's from the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. Currently, I am a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}.
+I am a fourth year Ph.D. student at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, with a Master's from the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. Currently, I am a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. I am also an affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}.
 
-My research fields include public finance, applied econometrics, international macroeconomics and economic history. Specifically, I use empirical tools in historical and contemporary settings to investigate how fiscal decentralization directly and indirectly impacts economies.
+My research fields include macroeconomics and public finance and applied econometrics and economic history. Specifically, I use empirical tools in historical and contemporary settings to investigate how fiscal decentralization directly and indirectly impacts economies and their population.
 
 My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz){target="_blank"} and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/){target="_blank"}.
 
 **I will be on the 2024/25 academic job market. Check out my CV [here](CV_Stefan.pdf){target="_blank"}.**
 
-# ------------------------------------------------------------------------
 
 ## Research
 
 **Work in Progress**
 
-- "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
-
+- "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations" <br style="margin-bottom: 0.2rem;">
   ***Job Market Paper*** (Draft coming soon!) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample1" style="border: none;">
   <div class="card card-body no-border">
-    This paper explores the effects of corporate income tax adoptions on US interstate firm relocations during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, during which 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enable a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects in the manufacturing, mercantile, service, and utility sectors. Exact hat algebra allows estimating conditional equilibrium effects and counterfactual exercises showing that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax. </div>
+    Are firms relocating in response to the introduction of a corporate income tax? The paper explores the effects of corporate income tax adoptions on US interstate firm relocations during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, during which 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects are further found to be decreasing in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
 </div>
 
-- "Discretionary Policy under Fiscal Decentralization" 
-
+- "Discretionary Policy under Fiscal Decentralization" <br style="margin-bottom: 0.2rem;">
   [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -46,8 +43,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
     This paper examines the impact of fiscal decentralization on discretionary fiscal policies, focusing on how central and subnational entities respond to negative output gap shocks and their effectiveness. Through a cross-country analysis from 1990 to 2021 across 37 countries, two key findings have been generated. First, countries with greater decentralization experience reduced fluctuations in discretionary expenditures, supporting the claim that highly decentralized nations impose budgetary constraints on central governments. Second, there is a correlation between decentralization and fluctuations in subnational discretionary spending, with increased autonomy leading to more spending changes. However, these increased expenditures have limited or even adverse effects on the output gap, possibly due to the lack of coordination among subnational governments. These findings provide empirical evidence of negative externalities associated with fiscal decentralization. </div>
 </div>
 
-- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"})
-
+- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) <br style="margin-bottom: 0.2rem;">
   [Preliminary Draft](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -56,14 +52,13 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
 
-- "Decentralized Tax Cuts and the Labor Market" (with [Fabian Prettenthaler](https://fabianprettenthaler.github.io/){target="_blank"})
+- "Decentralized Tax Cuts and the Labor Market" (with [Fabian Prettenthaler](https://fabianprettenthaler.github.io/){target="_blank"}) <br style="margin-bottom: 0.2rem;">
 
-- "Foot Voting on Gendered Protective Labor Rights"
+- "Foot Voting on Gendered Protective Labor Rights" <br style="margin-bottom: 0.2rem;">
 
 **Working Papers**
 
-- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
-
+- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) <br style="margin-bottom: 0.2rem;">
   [Latest Version](TaxMigration_Sep2024.pdf){target="_blank"} \| [CEPR Discussion Paper](https://cepr.org/publications/dp18729){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -74,43 +69,42 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 **Technical Notes, Data and Policy Work**
 
-- "Digitization of US Establishment Level Data 1900 - 1924"
+- "Digitization of US Establishment Level Data 1900 - 1924" <br style="margin-bottom: 0.2rem;">
 
-- "Identifying Directional Challenges in Gravity Equations with Balanced Dyadic Panel Data"
-
+- "Identifying Directional Challenges in Gravity Equations with Balanced Dyadic Panel Data" <br style="margin-bottom: 0.2rem;">
   [Note](Note_Direction.pdf){target="_blank"}
 
-- "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) ([CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"})
-
-# ------------------------------------------------------------------------
+- "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) ([CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"}) <br style="margin-bottom: 0.2rem;">
 
 ## Short Bio
 
 **Education**
 
-- PhD in Economics, University of Vienna \| 2021 - 2025 (expected)
+<div style="margin-bottom: 0.5rem;">
+- PhD in Economics, University of Vienna | 2021 - 2025 (expected)
+  <div style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
+  - Visiting PhD Student, University of California, Los Angeles | Fall 2024
+  </div>
+</div>
 
-  - Visiting PhD Student, University of California, Los Angeles \| Fall 2024
+- MSc in Econometrics, University of Wisconsin-Madison \| 2019 - 2021 
 
-- MSc in Econometrics, University of Wisconsin-Madison \| 2019 - 2021
-
-- BSc in Economics, University of Vienna \| 2015 - 2018
+- BSc in Economics, University of Vienna \| 2015 - 2018 
 
 **Academic Positions**
 
-- Graduate Researcher and Lecturer, University of Vienna \| 2021 - present
+- Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
 
-- Researcher, University of Wisconsin-Madison (CROWE) \| 2020 - 2021
+- Graduate Researcher and Lecturer, University of Vienna \| 2021 - present 
 
-- Research Assistant, Oesterreichische Nationalbank \| 2017
+- Research Assistant, University of Wisconsin-Madison \| 2020 - 2021 
 
-# ------------------------------------------------------------------------
+- Research Assistant, Oesterreichische Nationalbank \| 2017 
 
 ## Teaching
 
--   UE Introductory Econometrics (MA) [(2023W](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2023W){target="_blank"}, [2022W)](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2022W){target="_blank"}
-
-    -   Lecturer
+-   UE Introductory Econometrics (Graduate Level) [(Fall 2023](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2023W){target="_blank"}, [Fall 2022)](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2022W){target="_blank"} <br style="margin-bottom: 0.2rem;">
+    -   Instructor
     
     
     
