@@ -8,6 +8,7 @@ about:
     - text: "Google Scholar"
       href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
       icon: mortarboard
+      target: _blank
 ---
 
 # Hi, I'm Stefan! 
@@ -19,6 +20,7 @@ My research fields include macroeconomics and public finance, applied econometri
 My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz){target="_blank"} and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/){target="_blank"}.
 
 **I will be on the 2024/25 academic job market. Check out my CV [here](CV_Stefan.pdf){target="_blank"}.**
+
 
 
 ## Research

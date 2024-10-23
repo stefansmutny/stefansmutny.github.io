@@ -155,6 +155,10 @@ section {
     border-radius: 4px;
 }
 
+#research {
+    margin-top: -2rem !important;
+}
+
 /* Target the specific headers */
 h2 {
     margin-top: 2.5rem !important;
