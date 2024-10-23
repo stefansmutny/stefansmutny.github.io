@@ -14,7 +14,7 @@ about:
 
 I am a fourth year Ph.D. student at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, with a Master's from the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. Currently, I am a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. I am also an affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}.
 
-My research fields include macroeconomics and public finance and applied econometrics and economic history. Specifically, I use empirical tools in historical and contemporary settings to investigate how fiscal decentralization directly and indirectly impacts economies and their population.
+My research fields include macroeconomics and public finance, applied econometrics and economic history. Specifically, I use empirical tools in historical and contemporary settings to investigate how fiscal decentralization directly and indirectly impacts economies and their population.
 
 My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz){target="_blank"} and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/){target="_blank"}.
 
