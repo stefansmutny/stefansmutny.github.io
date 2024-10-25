@@ -48,7 +48,7 @@ a:hover {
     background-color: #f8f7f6;
     border-radius: 4px;
     margin-bottom: 1rem !important;
-    margin-top: -0.6rem !important;  
+    margin-top: 0rem !important;  
 }
 
 /* Improved navigation */
@@ -161,7 +161,7 @@ section {
 
 /* Target the specific headers */
 h2 {
-    margin-top: 2.5rem !important;
+    margin-top: 2rem !important;
     margin-bottom: 1.5rem !important;
     position: relative;
     color: #2c3e50;
@@ -216,3 +216,17 @@ section:last-of-type {
 div[class*="about"] {
     border: none !important;
 }
+
+/* Fix collapse div spacing */
+
+/* Ensure proper list spacing */
+ul li {
+    margin-bottom: 1rem !important;
+}
+
+/* Reset margin for nested lists if needed */
+ul li ul li {
+    margin-bottom: 0.5rem !important;
+}
+
+
