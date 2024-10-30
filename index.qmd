@@ -31,7 +31,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 **Working Papers**
 
 - "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
-  ***Job Market Paper*** \| Draft coming soon! \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  ***Job Market Paper*** \| [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
  <div class="collapse" id="collapseExample1" style="border: none;">
@@ -60,7 +60,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 </div>
 
 - "Migrants of Influence: Skill Levels and the Effects on International Trade" (with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
-  [Preliminary Draft](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+  [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample3" style="border: none;">
