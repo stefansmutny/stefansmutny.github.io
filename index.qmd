@@ -36,7 +36,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 </a> <br>
  <div class="collapse" id="collapseExample1" style="border: none;">
   <div class="card card-body no-border">
-    Are firms relocating in response to the introduction of a corporate income tax? The paper explores the effects of corporate income tax adoptions on US interstate firm relocations during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, during which 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects are further found to be decreasing in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
+    Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
 </div>
 
 - "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
@@ -108,8 +108,8 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 ## Teaching
 
--   UE Introductory Econometrics (Graduate Level) \| [Fall 2023](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2023W){target="_blank"} \| [Fall 2022](https://ufind.univie.ac.at/de/course.html?lv=040115&semester=2022W){target="_blank"} <br style="margin-bottom: 0.2rem;">
-    -   Instructor
+-   UE Introductory Econometrics (Graduate Level) \| [Fall 2023](https://ufind.univie.ac.at/en/course.html?lv=040115&semester=2023W){target="_blank"} \| [Fall 2022](https://ufind.univie.ac.at/en/course.html?lv=040115&semester=2022W){target="_blank"} <br style="margin-bottom: 0.2rem;">
+    -   Instructor \| [Full Evaluations](Evaluations_Stefan.pdf){target="_blank"}
     
     
    
