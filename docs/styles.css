@@ -1,35 +1,35 @@
-/* css styles */
+/* === Base Button Styles === */
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+    cursor: pointer;
+}
 
-    .download-btn {
-        display: inline-block;
-        padding: 10px 20px;
-        text-align: center;
-        text-decoration: none;
-        background-color: #3498db;
-        color: #ffffff;
-        border-radius: 5px;
-        border: none;
-        transition: background-color 0.3s ease;
-        font-size: 16px;
-        cursor: pointer;
-    }
+.download-btn:hover {
+    background-color: #2980b9;
+}
 
-    .download-btn:hover {
-        background-color: #2980b9;
-    }
-
+/* === Core Element Styles === */
 .no-border {
     border: none !important;
 }
 
-/* Responsive typography */
+/* Responsive base typography */
 @media screen and (max-width: 768px) {
     html {
         font-size: 16px;
     }
 }
 
-/* Better link styling */
+/* Global link styling */
 a {
     color: #eb6864;
     text-decoration: underline;
@@ -41,28 +41,53 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Improved abstract collapse styling */
+/* === Abstract Collapse System === */
+/* Basic states */
+.collapse:not(.show) {
+    display: none;
+}
 
+/* Add a wrapper to maintain space */
+.collapse,
+.collapsing {
+    display: block;
+    padding-bottom: 1rem !important; /* Fixed space that never changes */
+    height: auto;
+}
+
+/* Only animate the inner content */
+.collapsing {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.35s ease;
+}
+
+/* Base card style */
 .card.no-border {
     padding: 0.6rem;
     background-color: #f8f7f6;
     border-radius: 4px;
-    margin-bottom: 1rem !important;
-    margin-top: 0rem !important;  
+    margin: 0 !important; /* Remove margin from card */
 }
 
-/* Improved navigation */
+/* Work in Progress adjustment */
+#collapseExample2,
+#collapseExample3 {
+    margin-top: -1rem !important;
+}
+
+/* === Navigation Styling === */
 .navbar {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Better spacing for sections */
+/* === Section Headers === */
 h1, h2 {
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
-/* Improved mobile responsiveness */
+/* === Responsive Layout === */
 @media screen and (max-width: 768px) {
     .grid {
         margin: 0 1rem;
@@ -73,13 +98,15 @@ h1, h2 {
     }
 }
 
+/* === Title Block Styling === */
 .quarto-title-block .quarto-title-banner {
     margin-bottom: 2rem;
 }
 
+/* === Mobile Adjustments === */
 @media screen and (max-width: 768px) {
     .quarto-about-trestles .about-entity {
-        margin-top: 2rem !important;  /* Using !important to override template styles */
+        margin-top: 2rem !important;
         margin-bottom: 2rem !important;
     }
     
@@ -87,13 +114,12 @@ h1, h2 {
         padding-top: 2rem !important;
     }
     
-    /* Additional safety margin for the image */
     .quarto-about-trestles .about-image {
         margin-top: 2rem !important;
     }
 }
 
-/* Also, let's add some general spacing improvements */
+/* === About Section Spacing === */
 .quarto-about-trestles {
     padding-top: 1rem;
 }
@@ -102,13 +128,14 @@ h1, h2 {
     padding-top: 1.5rem;
 }
 
-
+/* === List Styling === */
 ul li li {
-    list-style-type: "▸ ";    
+    list-style-type: "▸ ";
 }
 
+/* === Typography === */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Crimson Pro', serif !important;  /* Added !important to override template styles */
+    font-family: 'Crimson Pro', serif !important;
     font-weight: 600;
 }
 
@@ -116,7 +143,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Crimson Pro', serif !important;
 }
 
-/* Optional: adjust size and weight if needed */
 .navbar-brand {
     font-size: 1.3rem !important;
     font-weight: 600;
@@ -127,28 +153,27 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
 }
 
+/* === Header Adjustments === */
 h1:first-of-type {
     margin-top: 0 !important;
     padding-top: 0.5rem !important;
 }
 
-
-/* If needed, also target the container of Research and Work in Progress */
+/* === Content Layout === */
 .content h2,
 .content strong,
 .content-visible h2,
-#research, 
-#short-bio, 
+#research,
+#short-bio,
 #teaching {
     margin-left: 0 !important;
     padding-left: 0 !important;
     text-indent: 0 !important;
 }
 
-
-/* Adjust section margins and header spacing */
+/* === Section Styling === */
 section {
-    margin: 1.5rem 0 0.5rem 0 !important;  /* Reduced bottom margin */
+    margin: 1.5rem 0 0.5rem 0 !important;
     margin-top: -3rem !important;
     padding: 1.5rem 1.5rem 1rem !important;
     background: #f8f7f6;
@@ -159,7 +184,7 @@ section {
     margin-top: -2rem !important;
 }
 
-/* Target the specific headers */
+/* === Header Styling === */
 h2 {
     margin-top: 2rem !important;
     margin-bottom: 1.5rem !important;
@@ -167,7 +192,6 @@ h2 {
     color: #2c3e50;
 }
 
-/* Rest of your styles remain the same */
 h2::after {
     content: '';
     position: absolute;
@@ -179,54 +203,33 @@ h2::after {
     opacity: 0.2;
 }
 
+/* === Footer Section === */
 section:last-of-type {
     margin-bottom: 0 !important;
-    padding-bottom: 0.5rem !important;  /* Reduced padding at bottom */
+    padding-bottom: 0.5rem !important;
 }
 
-/* Force away the line division */
-.grid {
-    border: none !important;
-}
-
-.grid > * {
-    border: none !important;
-}
-
-.about-entity {
-    border: none !important;
-}
-
-.quarto-about-trestles {
-    border: none !important;
-}
-
-.quarto-about-trestles .grid {
-    border: none !important;
-}
-
-.quarto-about-trestles .grid > * {
-    border: none !important;
-}
-
-.quarto-about-trestles .about-entity {
-    border: none !important;
-}
-
+/* === Grid System === */
+/* Remove default borders */
+.grid,
+.grid > *,
+.about-entity,
+.quarto-about-trestles,
+.quarto-about-trestles .grid,
+.quarto-about-trestles .grid > *,
+.quarto-about-trestles .about-entity,
 div[class*="about"] {
     border: none !important;
 }
 
-/* Fix collapse div spacing */
-
-/* Ensure proper list spacing */
+/* === List Spacing === */
 ul li {
     margin-bottom: 1rem !important;
 }
 
-/* Reset margin for nested lists if needed */
 ul li ul li {
     margin-bottom: 0.5rem !important;
 }
+
 
 
