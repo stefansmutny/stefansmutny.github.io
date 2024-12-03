@@ -231,5 +231,31 @@ ul li ul li {
     margin-bottom: 0.5rem !important;
 }
 
+/* === Buttons === */
+.about-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.about-link {
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    background: linear-gradient(135deg, #eb6864, #e74c3c);
+    color: white !important;
+    box-shadow: 0 4px 15px rgba(235, 104, 100, 0.2);
+}
+
+.about-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(235, 104, 100, 0.3);
+    background: linear-gradient(135deg, #e74c3c, #eb6864);
+    color: white !important;
+}
+
+.about-link .bi {
+    margin-right: 0.5rem;
+    font-size: 1.1em;
+}
 
 
