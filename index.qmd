@@ -3,11 +3,19 @@ image: Stefan_Homepage.png
 about:
   template: trestles
   image-shape: round
-  image-width: 17em
+  image-width: 18em
   links:
-    - text: "Google Scholar"
-      href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
-      icon: mortarboard
+    # - text: "Google Scholar"
+    #  href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
+    #  icon: mortarboard
+    #  target: _blank
+    - icon: envelope-at
+      text: Email
+      href: mailto:stefan.smutny@univie.ac.at
+      target: _blank
+    - icon: geo-alt
+      text: Where
+      href: https://ufind.univie.ac.at/de/person.html?id=117176
       target: _blank
 
 # for new line: <br style="margin-bottom: 0.2rem;">
