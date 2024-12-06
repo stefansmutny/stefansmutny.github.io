@@ -47,7 +47,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
     Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
 </div>
 
-- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
+- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1TFStq97dHhxE_um10eeLCwTjCxucrtox/view?usp=sharing){target="_blank"} \| [CEPR Discussion Paper](https://cepr.org/publications/dp18729){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -58,16 +58,16 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 **Work in Progress**
 
-- "Discretionary Policy under Fiscal Decentralization" \|
+- "Discretionary Policy under Fiscal Decentralization" \| [Draft](https://drive.google.com/file/d/1CMybOPIo-S-Lz_nZsLb5jjaUBlK14Rzh/view?usp=drive_link){target="_blank"} \|
   [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample2" style="border: none;">
   <div class="card card-body no-border">
-    This paper examines the impact of fiscal decentralization on discretionary fiscal policies, focusing on how central and subnational entities respond to negative output gap shocks and their effectiveness. Through a cross-country analysis from 1990 to 2021 across 37 countries, two key findings have been generated. First, countries with greater decentralization experience reduced fluctuations in discretionary expenditures, supporting the claim that highly decentralized nations impose budgetary constraints on central governments. Second, there is a correlation between decentralization and fluctuations in subnational discretionary spending, with increased autonomy leading to more spending changes. However, these increased expenditures have limited or even adverse effects on the output gap, possibly due to the lack of coordination among subnational governments. These findings provide empirical evidence of negative externalities associated with fiscal decentralization. </div>
+    This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using a comprehensive dataset spanning 37 countries from 1990 to 2021, I develop a novel empirical framework to analyze the relationship between fiscal federalism and macroeconomic stabilization policy. I introduce a new combined measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy, providing a more nuanced characterization of federal fiscal structures. To identify discretionary fiscal responses, I employ the cyclically-adjusted primary budget approach across different government levels and estimate their effects using panel local projections. The findings reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization due to coordination challenges among subnational entities, even when they possess both the resources and autonomy to implement discretionary policies. The results provide novel empirical evidence for potential negative externalities of fiscal decentralization on macroeconomic stabilization capabilities. </div>
 </div>
 
-- "Migrants of Influence: Skill Levels and the Effects on International Trade" (with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
+- "Migrants of Influence: Skill Levels and the Effects on International Trade" (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -76,7 +76,7 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
 
-- "Decentralized Tax Cuts and the Labor Market" (with [Fabian Prettenthaler](https://fabianprettenthaler.github.io/){target="_blank"}) <br style="margin-bottom: 0.2rem;">
+- "Decentralized Tax Cuts and the Labor Market" (joint with [Fabian Prettenthaler](https://fabianprettenthaler.github.io/){target="_blank"}) <br style="margin-bottom: 0.2rem;">
 
 - "Foot Voting on Gendered Protective Labor Rights" <br style="margin-bottom: 0.2rem;">
 
@@ -84,8 +84,8 @@ My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz)
 
 - "Digitization of US Establishment Level Data 1900 - 1924" <br style="margin-bottom: 0.2rem;">
 
-- "Identifying Directional Challenges in Gravity Equations with Balanced Dyadic Panel Data" \|
-  [Note](Note_Direction.pdf){target="_blank"}
+- "Flow Direction of Gravity Equations with Balanced Data" \|
+  [Note](https://drive.google.com/file/d/1nTiauB2LX-74UdGsLRscIwY3Z6u-Rucq/view?usp=sharing){target="_blank"}
 
 - "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) \| [CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"} <br style="margin-bottom: 0.2rem;">
 
