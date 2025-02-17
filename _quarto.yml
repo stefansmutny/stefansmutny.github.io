@@ -30,7 +30,7 @@ website:
   page-footer:
     background: primary
     left:
-      - "Copyright 2024, Stefan Smutny"
+      - "Copyright 2025, Stefan Smutny"
         
 format:
   html:
