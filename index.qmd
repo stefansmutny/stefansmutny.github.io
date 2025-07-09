@@ -27,9 +27,9 @@ about:
 
 # Hi, I'm Stefan! 
 
-I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [LMU Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an external affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}. I recently completed my PhD in Economics at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, and previously studied at the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. In the Fall of 2024, I visited [UCLA](https://economics.ucla.edu/){target="_blank"}'s Department of Economics. 
+I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [LMU Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an external affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}. I completed my PhD in Economics at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, and previously studied at the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. In the Fall of 2024, I visited [UCLA](https://economics.ucla.edu/){target="_blank"}'s Department of Economics. 
 
-My research fields are public finance and economic history, with a special focus on fiscal federalism.
+My research fields are public economics, political economy and economic history, with a special focus on federalist systems.
 
 Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-mf3UzUEl/view?usp=drive_link){target="_blank"}!
 
@@ -56,8 +56,6 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
 </div>
 
-**Work in Progress**
-
 - "Discretionary Policy under Fiscal Decentralization" \| [Draft](https://drive.google.com/file/d/1CMybOPIo-S-Lz_nZsLb5jjaUBlK14Rzh/view?usp=drive_link){target="_blank"} \|
   [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
@@ -67,6 +65,14 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using a comprehensive dataset spanning 37 countries from 1990 to 2021, I develop a novel empirical framework to analyze the relationship between fiscal federalism and macroeconomic stabilization policy. I introduce a new combined measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy, providing a more nuanced characterization of federal fiscal structures. To identify discretionary fiscal responses, I employ the cyclically-adjusted primary budget approach across different government levels and estimate their effects using panel local projections. The findings reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization due to coordination challenges among subnational entities, even when they possess both the resources and autonomy to implement discretionary policies. The results provide novel empirical evidence for potential negative externalities of fiscal decentralization on macroeconomic stabilization capabilities. </div>
 </div>
 
+**Selected Work in Progress**
+
+- "Decentralized Tax Adoptions in the Long Run" 
+
+- "Foot Voting on Gendered Protective Labor Rights" 
+
+- "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
+
 - "Migrants of Influence: Skill Levels and the Effects on International Trade" (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
@@ -75,10 +81,6 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
   <div class="card card-body no-border">
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
-
-- "Agricultural Price Shocks and the First Great Migration" <br style="margin-bottom: 0.2rem;">
-
-- "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
 
 **Technical Notes, Data and Policy Work**
 
@@ -97,7 +99,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 - Junior Faculty, Ludwig Maximilian University of Munich \| Start in Fall 2025
 
-- Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
+- External Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
 
 *Previous Positions*
 
