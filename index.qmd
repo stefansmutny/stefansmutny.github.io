@@ -11,7 +11,7 @@ about:
     #  target: _blank
     - icon: envelope-at
       text: Email
-      href: mailto:stefan.smutny@univie.ac.at
+      href: mailto:smutny@ifo.de
       target: _blank
     - icon: geo-alt
       text: Where
@@ -27,9 +27,9 @@ about:
 
 # Hi, I'm Stefan! 
 
-I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [LMU Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an external affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}. I completed my PhD in Economics at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, and previously studied at the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. In the Fall of 2024, I visited [UCLA](https://economics.ucla.edu/){target="_blank"}'s Department of Economics. 
+I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an external affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}. I completed my PhD in Economics at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, and previously studied at the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. In the Fall of 2024, I visited [UCLA](https://economics.ucla.edu/){target="_blank"}'s Department of Economics. 
 
-My research fields are public economics, political economy and economic history, with a special focus on federalist systems.
+My research fields are public economics and economic history, with a special focus on federalist systems.
 
 Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-mf3UzUEl/view?usp=drive_link){target="_blank"}!
 
@@ -67,12 +67,6 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 **Selected Work in Progress**
 
-- "Decentralized Tax Adoptions in the Long Run" 
-
-- "Foot Voting on Gendered Protective Labor Rights" 
-
-- "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
-
 - "Migrants of Influence: Skill Levels and the Effects on International Trade" (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
@@ -81,6 +75,12 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
   <div class="card card-body no-border">
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
+
+- "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
+
+- "Hidden Military Financing" 
+
+- "Internal Migration after WWI" 
 
 **Technical Notes, Data and Policy Work**
 
@@ -95,15 +95,15 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 **Academic Positions**
 
-- Post-Doc, ifo Institute \| Start in Fall 2025
+- Post-Doc, ifo Institute \| 2025 - present
 
-- Junior Faculty, Ludwig Maximilian University of Munich \| Start in Fall 2025
+- Junior Faculty, Ludwig Maximilian University of Munich \| 2025 - present
 
-- External Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
+- Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
 
 *Previous Positions*
 
-- Graduate Researcher and Lecturer, University of Vienna \| 2021 - 2025
+- Visiting Graduate Researcher, UCLA \| 2024
 
 - Research Assistant, University of Wisconsin-Madison \| 2020 - 2021 
 
@@ -114,7 +114,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 <div style="margin-bottom: 0.5rem;">
 - PhD in Economics, University of Vienna | 2021 - 2025
   <div style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
-  - Visiting PhD Student, University of California, Los Angeles | Fall 2024
+  - Visiting UCLA | 2024
   </div>
 </div>
 
@@ -124,8 +124,9 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 ## Teaching
 
--   UE Introductory Econometrics (Graduate Level) \| [Spring 2025](https://ufind.univie.ac.at/en/course.html?lv=040328&semester=2025S) \| [Fall 2023](https://ufind.univie.ac.at/en/course.html?lv=040115&semester=2023W){target="_blank"} \| [Fall 2022](https://ufind.univie.ac.at/en/course.html?lv=040115&semester=2022W){target="_blank"} <br style="margin-bottom: 0.2rem;">
-    -   Instructor \| [Full Evaluations](Evaluations_Stefan.pdf){target="_blank"}
+- Fiscal Federalism (Undergrad) \| University of Munich \| 2026
+
+- UE Introductory Econometrics (Graduate) \| University of Vienna \| 2022 - 2025
     
     
    
