@@ -2,8 +2,8 @@
 image: Stefan_Homepage.png
 about:
   template: trestles
-  image-shape: rounded
-  image-width: 15em
+  image-shape: round
+  image-width: 12em
   links:
     # - text: "Google Scholar"
     #  href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
@@ -27,7 +27,7 @@ about:
 
 # Hi, I'm Stefan! 
 
-I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an external affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"}. I completed my PhD in Economics at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"}, and previously studied at the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}. In the Fall of 2024, I visited [UCLA](https://economics.ucla.edu/){target="_blank"}'s Department of Economics. 
+I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
 
 My research fields are public economics and economic history, with a special focus on federalist systems.
 
@@ -39,7 +39,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 **Working Papers**
 
 - "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
-   \| [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+   \| [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"} \| [Oxford CBT Working Paper](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp25.09-stefan-smutny.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
  <div class="collapse" id="collapseExample1" style="border: none;">
@@ -56,16 +56,16 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
 </div>
 
-- "Discretionary Policy under Fiscal Decentralization" \| [Draft](https://drive.google.com/file/d/1CMybOPIo-S-Lz_nZsLb5jjaUBlK14Rzh/view?usp=drive_link){target="_blank"} \|
+**Selected Work in Progress**
+
+- "Discretionary Policy under Fiscal Decentralization" \| *Draft coming soon!* \|
   [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample2" style="border: none;">
   <div class="card card-body no-border">
-    This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using a comprehensive dataset spanning 37 countries from 1990 to 2021, I develop a novel empirical framework to analyze the relationship between fiscal federalism and macroeconomic stabilization policy. I introduce a new combined measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy, providing a more nuanced characterization of federal fiscal structures. To identify discretionary fiscal responses, I employ the cyclically-adjusted primary budget approach across different government levels and estimate their effects using panel local projections. The findings reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization due to coordination challenges among subnational entities, even when they possess both the resources and autonomy to implement discretionary policies. The results provide novel empirical evidence for potential negative externalities of fiscal decentralization on macroeconomic stabilization capabilities. </div>
+    This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using data from 37 OECD countries from 1990 to 2021, I estimate a system of local projections to analyze the relationship between fiscal federalism and macroeconomic stabilization policy where I introduce a new and comprehensive measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy. To identify discretionary fiscal responses, I use cyclically adjusted primary budgets across different government levels. Impulse responses reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization, even when they possess both the resources and autonomy to implement discretionary policies. </div>
 </div>
-
-**Selected Work in Progress**
 
 - "Migrants of Influence: Skill Levels and the Effects on International Trade" (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
@@ -78,9 +78,8 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 - "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
 
-- "Hidden Military Financing" 
+- "Hidden Military Financing" (joint with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"})
 
-- "Internal Migration after WWI" 
 
 **Technical Notes, Data and Policy Work**
 
@@ -97,13 +96,17 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 - Post-Doc, ifo Institute \| 2025 - present
 
-- Junior Faculty, Ludwig Maximilian University of Munich \| 2025 - present
+- Junior Faculty (non-tenure track AP), Ludwig Maximilian University of Munich \| 2025 - present
 
-- Affiliate, California Center for Population Research (UCLA) \| 2024 - present 
+*Affiliations*
+
+- California Center for Population Research (UCLA) \| 2024 - present 
+
+- CESifo \| 2025 - present 
 
 *Previous Positions*
 
-- Visiting Graduate Researcher, UCLA \| 2024
+- Visiting Graduate Researcher, UCLA \| 2024 - 2025
 
 - Research Assistant, University of Wisconsin-Madison \| 2020 - 2021 
 
@@ -114,7 +117,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 <div style="margin-bottom: 0.5rem;">
 - PhD in Economics, University of Vienna | 2021 - 2025
   <div style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
-  - Visiting UCLA | 2024
+  - Visiting UCLA | 2024 - 2025
   </div>
 </div>
 
@@ -124,7 +127,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 ## Teaching
 
-- Fiscal Federalism (Undergrad) \| University of Munich \| 2026
+- Fiscal Federalism (Undergrad) \| LMU \| 2026
 
 - UE Introductory Econometrics (Graduate) \| University of Vienna \| 2022 - 2025
     
