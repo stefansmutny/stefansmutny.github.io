@@ -27,9 +27,9 @@ about:
 
 # Hi, I'm Stefan! 
 
-I am a Post-Doc at the [ifo Center for Public Finance and Political Economy](https://www.ifo.de/en/research/ifo-center-for-public-finance-and-political-economy){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also an affiliate of the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
+I am a Post-Doc at the [ifo Institute](https://www.ifo.de/en/ifo-homepage){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am affiliated with the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
 
-My research fields are public economics and economic history, with a special focus on federalist systems.
+My research fields are public economics and economic history, with a focus on taxation and intergovernmental transfers.
 
 Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-mf3UzUEl/view?usp=drive_link){target="_blank"}!
 
@@ -38,7 +38,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 **Working Papers**
 
-- "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
+- **Corporate Tax Adoptions and Firm Relocations** (earlier title: "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"9
    \| [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"} \| [Oxford CBT Working Paper](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp25.09-stefan-smutny.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -47,7 +47,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
 </div>
 
-- "A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
+- **A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century** (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1TFStq97dHhxE_um10eeLCwTjCxucrtox/view?usp=sharing){target="_blank"} \| [CEPR Discussion Paper](https://cepr.org/publications/dp18729){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -58,7 +58,14 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 
 **Selected Work in Progress**
 
-- "Discretionary Policy under Fiscal Decentralization" \| *Draft coming soon!* \|
+
+- **The Marshall Plan in Austria** (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
+<div style="margin-top: -0.8rem; margin-bottom: 0.2rem;">
+  - *Anniversary Fund of the Oesterreichische Nationalbank*
+  </div>
+
+
+- **Discretionary Policy under Fiscal Decentralization** \| *Draft coming soon!* \|
   [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -67,7 +74,11 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using data from 37 OECD countries from 1990 to 2021, I estimate a system of local projections to analyze the relationship between fiscal federalism and macroeconomic stabilization policy where I introduce a new and comprehensive measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy. To identify discretionary fiscal responses, I use cyclically adjusted primary budgets across different government levels. Impulse responses reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization, even when they possess both the resources and autonomy to implement discretionary policies. </div>
 </div>
 
-- "Migrants of Influence: Skill Levels and the Effects on International Trade" (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
+- **Hidden Military Financing** (joint with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"})
+
+- **Tax Compliance under Enforcement Misperception** (joint with [Philipp Heil](https://sites.google.com/view/philipp-heil/start){target="_blank"} & [Pascal Zamorski](https://www.ifo.de/en/zamorski-p){target="_blank"})
+
+- **Migrants of Influence: Skill Levels and the Effects on International Trade** (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -76,60 +87,23 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
 </div>
 
-- "Post-War Foreign Assistance and Regional Stability" (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
-
-- "Hidden Military Financing" (joint with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"})
 
 
 **Technical Notes, Data and Policy Work**
 
-- "Digitization of US Establishment Level Data 1900 - 1924" <br style="margin-bottom: 0.2rem;">
+- **Digitization of US Firm-Level Data in the 19th Century** (joint with [Claudia Steinwender](https://sites.google.com/site/clsteinwender/){target="_blank"})
 
-- "Flow Direction of Gravity Equations with Balanced Data" \|
+- **Flow Direction of Gravity Equations with Balanced Data** \|
   [Note](https://drive.google.com/file/d/1nTiauB2LX-74UdGsLRscIwY3Z6u-Rucq/view?usp=sharing){target="_blank"}
 
-- "The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic" (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) \| [CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"} <br style="margin-bottom: 0.2rem;">
+- **The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic** (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) \| [CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"} <br style="margin-bottom: 0.2rem;">
 
-## Short Bio
-
-**Academic Positions**
-
-- Post-Doc, ifo Institute \| 2025 - present
-
-- Junior Faculty (non-tenure track AP), Ludwig Maximilian University of Munich \| 2025 - present
-
-*Affiliations*
-
-- California Center for Population Research (UCLA) \| 2024 - present 
-
-- CESifo \| 2025 - present 
-
-*Previous Positions*
-
-- Visiting Graduate Researcher, UCLA \| 2024 - 2025
-
-- Research Assistant, University of Wisconsin-Madison \| 2020 - 2021 
-
-- Research Assistant, Oesterreichische Nationalbank \| 2017 
-
-**Education**
-
-<div style="margin-bottom: 0.5rem;">
-- PhD in Economics, University of Vienna | 2021 - 2025
-  <div style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
-  - Visiting UCLA | 2024 - 2025
-  </div>
-</div>
-
-- MSc in Econometrics, University of Wisconsin-Madison \| 2019 - 2021 
-
-- BSc in Economics, University of Vienna \| 2015 - 2018 
 
 ## Teaching
 
-- Fiscal Federalism (Undergrad) \| LMU \| 2026
+- Principles of Fiscal Federalism (Graduate Level) \| LMU \| 2026
 
-- UE Introductory Econometrics (Graduate) \| University of Vienna \| 2022 - 2025
+- UE Introductory Econometrics (Graduate Level) \| University of Vienna \| 2022 - 2025
     
     
    
