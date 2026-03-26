@@ -27,7 +27,7 @@ about:
 
 # Hi, I'm Stefan! 
 
-I am a Post-Doc at the [ifo Institute](https://www.ifo.de/en/ifo-homepage){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am affiliated with the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
+I am a Post-Doc at the [ifo Center for Public Economics](https://www.ifo.de/en/research/ifo-center-for-public-economics){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am affiliated with the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
 
 My research fields are public economics and economic history, with a focus on taxation and intergovernmental transfers.
 
@@ -65,18 +65,18 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
   </div>
 
 
-- **Discretionary Policy under Fiscal Decentralization** \| *Draft coming soon!* \|
-  [Poster](StabilizationPolicy_Poster.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
+- **Fiscal Stabilization with a Shared Government** (joint with [Christian Gréus](https://www.ifo.de/en/greus-c){target="_blank"}) \| *Draft coming soon!* \|
+   <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample2" style="border: none;">
   <div class="card card-body no-border">
-    This paper examines how fiscal decentralization affects the implementation and effectiveness of discretionary fiscal policies across different levels of government. Using data from 37 OECD countries from 1990 to 2021, I estimate a system of local projections to analyze the relationship between fiscal federalism and macroeconomic stabilization policy where I introduce a new and comprehensive measure of fiscal decentralization that accounts for both quantitative subnational expenditure shares and qualitative institutional autonomy. To identify discretionary fiscal responses, I use cyclically adjusted primary budgets across different government levels. Impulse responses reveal that higher fiscal decentralization significantly constrains central governments' discretionary spending responses to economic downturns. While subnational governments in decentralized systems show increased fiscal responses, these interventions have limited and sometimes adverse effects on closing the national output gap. This suggests that decentralization may impair macroeconomic stabilization, even when they possess both the resources and autonomy to implement discretionary policies. </div>
+    Does fiscal decentralization constrain macroeconomic stabilization? We develop a formal framework in which decentralization has a fiscal-space-maximizing optimum. Exceeding this optimum generates a double bind: central discretionary capacity declines while subnational efforts fail to compensate due to worsening coordination failures. Using panel local projections for 37 countries from 1990 to 2021 and a novel composite measure integrating expenditure shares with institutional autonomy, we find strong empirical support for our theoretical predictions. Higher decentralization constrains central discretionary responses to output gaps, subnational governments actively counter national shocks. While this contradicts the notion of subnational passivity, their interventions fail to stabilize national output, with effectiveness turning negative at high decentralization levels. The key challenge is not decentralization per se but the coordination failures that prevent subnational initiatives from translating into effective national stabilization. </div>
 </div>
 
 - **Hidden Military Financing** (joint with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"})
 
-- **Tax Compliance under Enforcement Misperception** (joint with [Philipp Heil](https://sites.google.com/view/philipp-heil/start){target="_blank"} & [Pascal Zamorski](https://www.ifo.de/en/zamorski-p){target="_blank"})
+- **Corporate Tax Compliance under Enforcement Misperception** (joint with [Philipp Heil](https://sites.google.com/view/philipp-heil/start){target="_blank"} & [Pascal Zamorski](https://www.ifo.de/en/zamorski-p){target="_blank"})
 
 - **Migrants of Influence: Skill Levels and the Effects on International Trade** (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">

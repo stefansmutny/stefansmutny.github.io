@@ -36,7 +36,7 @@ format:
   html:
     theme: journal
     css: styles.css
-    fontsize: 0.95em
+    fontsize: 1em
     
     grid: 
       body-width: 1200px
