@@ -47,7 +47,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
     Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
 </div>
 
-- **A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century** (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"}) \|
+- **A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century** (joint with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"}) \|
   [Latest Version](https://drive.google.com/file/d/1TFStq97dHhxE_um10eeLCwTjCxucrtox/view?usp=sharing){target="_blank"} \| [CEPR Discussion Paper](https://cepr.org/publications/dp18729){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
   Abstract
 </a> <br>
@@ -59,7 +59,7 @@ Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-
 **Selected Work in Progress**
 
 
-- **The Marshall Plan in Austria** (joint with [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/en/people/faculty/wandschneider-kirsten/){target="_blank"})
+- **The Marshall Plan in Austria** (joint with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"})
 <div style="margin-top: -0.8rem; margin-bottom: 0.2rem;">
   - *Anniversary Fund of the Oesterreichische Nationalbank*
   </div>
