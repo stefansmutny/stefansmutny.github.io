@@ -1,7 +1,6 @@
-
 project:
- type: website
- output-dir: docs
+  type: website
+  output-dir: docs
 
 website:
   google-analytics: "G-077ZYQP8M3"
@@ -12,43 +11,38 @@ website:
     title: "Stefan Smutny"
     # right:
     #  - icon: envelope-at
-      #  text: Email
-      #  href: mailto:stefan.smutny@univie.ac.at
-      #  target: _blank
-     # - icon: twitter
-      #  text: Twitter
-      #  href: https://twitter.com/stefan1195?lang=en
-      #  target: _blank
-     # - icon: linkedin
-      #  text: LinkedIn
-      #  href: https://at.linkedin.com/in/stefan-smutny-21b509124
-      #  target: _blank
-     # - icon: geo-alt
-      #  text: Where
-      #  href: https://ufind.univie.ac.at/de/person.html?id=117176
-      #  target: _blank
+    #    text: Email
+    #    href: mailto:stefan.smutny@univie.ac.at
+    #    target: _blank
+    #  - icon: twitter
+    #    text: Twitter
+    #    href: https://twitter.com/stefan1195?lang=en
+    #    target: _blank
+    #  - icon: linkedin
+    #    text: LinkedIn
+    #    href: https://at.linkedin.com/in/stefan-smutny-21b509124
+    #    target: _blank
   page-footer:
-    background: primary
     left:
-      - "Copyright 2026, Stefan Smutny"
-        
+      - "© 2026 Stefan Smutny"
+    right:
+      - "ifo Institute · LMU Munich"
+
 format:
   html:
-    theme: journal
-    css: styles.css
-    fontsize: 1em
-    
-    grid: 
-      body-width: 1200px
+    theme: [journal, style.scss]   # Journal stays the base; custom.scss holds all custom styling
+    fontsize: 1.15em                # Crimson Pro runs small, so bump it a little
+    linestretch: 1.6
+
+    grid:
+      body-width: 1100px
       sidebar-width: 250px
       margin-width: 250px
-    
+
     include-in-header:
       - text: |
-          <meta name="viewport" content="width=device-width, initial-scale=1">
-          <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
-    mainfont: "Crimson Pro"
-    headingfont: "Crimson Pro"
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
 editor: visual
-

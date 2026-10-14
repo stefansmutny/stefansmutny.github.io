@@ -1,0 +1,260 @@
+/*-- scss:defaults --*/
+
+// A quieter, deeper version of Journal's red
+$primary:        #8a2c2c;
+$link-color:     $primary;
+$body-color:     #222222;
+$text-muted:     #6b6b6b;
+$rule-color:     #e8e4e0;
+$card-bg:        #f8f7f6;   // your original section-card colour
+
+$font-family-sans-serif: "Crimson Pro", Georgia, serif;
+$headings-font-family:   "Crimson Pro", Georgia, serif;
+$headings-font-weight:   600;
+$ui-font: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+// Navbar + footer: clean white instead of coloured blocks
+$navbar-bg: #ffffff;
+$navbar-fg: #222222;
+$navbar-hl: $primary;
+$footer-bg: #ffffff;
+$footer-fg: $text-muted;
+
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection { background: rgba($primary, 0.15); }
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  border-bottom: 1px solid $rule-color;
+  box-shadow: none;
+}
+.navbar-brand .navbar-title {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: 0.01em;
+}
+.navbar .nav-link { font-family: $ui-font; font-size: 0.9rem; }
+
+/* ---------- About block (trestles) ---------- */
+.quarto-about-trestles { padding-top: 1rem; }
+.about-contents { padding-top: 1.5rem; }
+
+// remove trestles' default borders (from your original file)
+.quarto-about-trestles,
+.quarto-about-trestles .about-entity,
+.quarto-about-trestles .grid,
+.quarto-about-trestles .grid > * {
+  border: none !important;
+}
+
+// Trestles gives the photo column 42% of the width on desktop;
+// a fixed narrower column leaves much more room for the text.
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity { flex: 0 0 260px; }
+  div.quarto-about-trestles .about-contents { padding-left: 2.5rem; }
+}
+
+.quarto-about-trestles .about-image {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.10);
+}
+
+// Outlined buttons instead of the red gradient
+div.quarto-about-trestles .about-entity .about-links { gap: 0.5rem; }
+div.quarto-about-trestles .about-entity .about-link {
+  font-family: $ui-font;
+  font-size: 0.85rem;
+  color: $body-color;
+  background: #fff;
+  border: 1px solid $rule-color;
+  border-radius: 999px;
+  padding: 0.45rem 1.1rem;
+  transition: color 0.15s, border-color 0.15s, transform 0.15s;
+}
+div.quarto-about-trestles .about-entity .about-link:hover {
+  color: $primary;
+  border-color: $primary;
+  transform: translateY(-1px);
+}
+div.quarto-about-trestles .about-entity .about-link .bi { margin-right: 0.4rem; }
+
+/* ---------- Headings ---------- */
+h1 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-family: $ui-font;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: $primary;
+  border-bottom: 1px solid darken($rule-color, 4%);
+  padding-bottom: 0.45rem;
+  margin-top: 0;
+  margin-bottom: 1.4rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 500;
+  color: #444;
+  border-bottom: none;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+/* ---------- Section cards (kept from your original look) ---------- */
+section.level2 {
+  background: $card-bg;
+  border-radius: 6px;
+  padding: 1.6rem 1.8rem 0.8rem;
+  margin: 2rem 0;
+}
+section.level2 > h3:first-of-type,
+section.level2 > section.level3:first-of-type > h3 { margin-top: 0.4rem; }
+
+/* ---------- Paper entries ---------- */
+.paper {
+  margin: 0 0 1.6rem;
+  padding-left: 1rem;
+  border-left: 2px solid darken($rule-color, 4%);
+  transition: border-color 0.2s;
+}
+.paper:hover { border-left-color: $primary; }
+.paper p { margin-bottom: 0.2rem; }
+
+.paper-title {
+  font-weight: 600;
+  font-size: 1.1em;
+  line-height: 1.35;
+}
+.paper-meta {
+  color: $text-muted;
+  font-size: 0.95em;
+}
+
+/* Small pill buttons for links */
+.paper-link,
+.paper-tag {
+  display: inline-block;
+  font-family: $ui-font;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.18rem 0.65rem;
+  margin: 0.35rem 0.35rem 0.1rem 0;
+  border-radius: 999px;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.paper-link {
+  color: $primary;
+  background: #fff;
+  border: 1px solid rgba($primary, 0.35);
+  transition: background 0.15s, color 0.15s;
+}
+.paper-link:hover {
+  background: $primary;
+  color: #fff;
+  border-color: $primary;
+}
+.paper-tag {
+  color: $text-muted;
+  background: #ece8e4;
+}
+
+/* Abstract toggle: + / – indicator */
+.paper-link[data-bs-toggle="collapse"]::after { content: " +"; }
+.paper-link[data-bs-toggle="collapse"][aria-expanded="true"]::after { content: " –"; }
+
+// white box so it stands out against the beige section card
+.abstract {
+  font-size: 0.95em;
+  line-height: 1.55;
+  color: #3a3a3a;
+  background: #fff;
+  border: 1px solid $rule-color;
+  border-radius: 6px;
+  padding: 0.85rem 1.1rem;
+  margin: 0.6rem 0 0.4rem;
+}
+
+/* ---------- Lists (from your original file) ---------- */
+ul li { margin-bottom: 0.6rem; }
+ul li li { list-style-type: "▸ "; margin-bottom: 0.4rem; }
+
+/* ---------- Utility classes from your original file ---------- */
+.no-border { border: none !important; }
+
+.download-btn {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  font-family: $ui-font;
+  font-size: 0.9rem;
+  text-decoration: none;
+  background-color: $primary;
+  color: #fff;
+  border-radius: 999px;
+  border: none;
+  transition: background-color 0.2s ease;
+  cursor: pointer;
+}
+.download-btn:hover { background-color: darken($primary, 8%); color: #fff; }
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  font-family: $ui-font;
+  font-size: 0.8rem;
+  border-top: 1px solid $rule-color;
+}
+
+/* ---------- Mobile ---------- */
+@media screen and (max-width: 768px) {
+  html { font-size: 16px; }
+
+  .navbar-brand .navbar-title { font-size: 1.2rem; }
+
+  .quarto-about-trestles .about-entity {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .quarto-about-trestles .about-image {
+    width: 9rem !important;
+    height: 9rem !important;
+  }
+  // compact pill row instead of three full-width stacked boxes
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+  }
+  div.quarto-about-trestles .about-entity .about-link {
+    font-size: 0.85rem;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+  }
+
+  section.level2 { padding: 1.2rem 1.1rem 0.6rem; }
+  .paper { padding-left: 0.75rem; }
+}

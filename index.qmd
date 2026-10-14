@@ -1,112 +1,152 @@
 ---
-image: Stefan_Homepage.png
+image: cvfoto-smutny.jpg
 about:
   template: trestles
   image-shape: round
   image-width: 12em
   links:
-    # - text: "Google Scholar"
-    #  href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
-    #  icon: mortarboard
-    #  target: _blank
     - icon: envelope-at
       text: Email
       href: mailto:smutny@ifo.de
       target: _blank
-    - icon: geo-alt
-      text: Where
-      href: https://www.google.com/maps/place/ifo+Institut+%E2%80%93+Leibniz-Institut+f%C3%BCr+Wirtschaftsforschung+an+der+Universit%C3%A4t+M%C3%BCnchen+e.V./@48.153015,11.6026518,17z/data=!3m1!4b1!4m6!3m5!1s0x479e75a037b194fb:0x7822cef755f39eb!8m2!3d48.1530114!4d11.6052267!16s%2Fg%2F1wrgj4h1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D
+    - icon: file-earmark-person
+      text: CV
+      href: https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-mf3UzUEl/view?usp=drive_link
       target: _blank
+    # - text: "Google Scholar"
+    #   href: "https://scholar.google.com/citations?user=sFKrvAkAAAAJ&hl=en&oi=sra"
+    #   icon: mortarboard
+    #   target: _blank
+    # - icon: geo-alt
+    #   text: Where
+    #   href: https://www.google.com/maps/place/ifo+Institut+%E2%80%93+Leibniz-Institut+f%C3%BCr+Wirtschaftsforschung+an+der+Universit%C3%A4t+M%C3%BCnchen+e.V./@48.153015,11.6026518,17z/data=!3m1!4b1!4m6!3m5!1s0x479e75a037b194fb:0x7822cef755f39eb!8m2!3d48.1530114!4d11.6052267!16s%2Fg%2F1wrgj4h1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D
+     #  target: _blank
 
-# for new line: <br style="margin-bottom: 0.2rem;">
 # JMP: [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"}
-
 # My doctoral advisors are [Monika Merz](https://sites.google.com/view/monikamerz){target="_blank"} and [Kirsten Wandschneider](https://wirtschaftsgeschichte.univie.ac.at/menschen/wissenschaftliche-mitarbeiterinnen/wandschneider-kirsten/){target="_blank"}.
+
+# I'm interested in individual and corporate taxation, especially tax enforcement, decentralized tax systems, and fiscal equalization.
 
 ---
 
-# Hi, I'm Stefan! 
+# Hi, I'm Stefan!
 
-I am a Post-Doc at the [ifo Center for Public Economics](https://www.ifo.de/en/research/ifo-center-for-public-economics){target="_blank"} and the [Ludwig Maximilian University of Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am affiliated with the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}. 
+I am a postdoctoral researcher at the [ifo Center for Public Economics](https://www.ifo.de/en/research/ifo-center-for-public-economics){target="_blank"} and [LMU Munich](https://www.econ.lmu.de/en/){target="_blank"}. I am also a faculty member at [WU Vienna's Institute for Economic and Social History](https://www.wu.ac.at/en/geschichte/institute){target="_blank"} and affiliated with the [California Center for Population Research](https://ccpr.ucla.edu//){target="_blank"} and [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage){target="_blank"}. I studied at the [University of Vienna](https://econ.univie.ac.at/){target="_blank"} and the [University of Wisconsin-Madison](https://econ.wisc.edu/){target="_blank"}, and was a visiting graduate researcher at [UCLA](https://economics.ucla.edu/){target="_blank"}.
 
-My research fields are public economics and economic history, with a focus on taxation and intergovernmental transfers.
-
-Check out my CV [here](https://drive.google.com/file/d/1snHpHVrMZMgXSdY6m4Gn6cG-mf3UzUEl/view?usp=drive_link){target="_blank"}!
-
+My research fields are **public economics** and **economic history**. I study how tax systems and fiscal institutions shape the behavior of firms, individuals, and governments, in both contemporary and historical settings.
 
 ## Research
 
-**Working Papers**
+### Working Papers
 
-- **Corporate Tax Adoptions and Firm Relocations** (earlier title: "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"
-   \| [Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){target="_blank"} \| [Oxford CBT Working Paper](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp25.09-stefan-smutny.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
-  Abstract
-</a> <br>
- <div class="collapse" id="collapseExample1" style="border: none;">
-  <div class="card card-body no-border">
-    Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows. </div>
-</div>
+::::: paper
+[Corporate Tax Adoptions and Firm Relocations]{.paper-title}
 
-- **A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century** (joint with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"}) \|
-  [Latest Version](https://drive.google.com/file/d/1TFStq97dHhxE_um10eeLCwTjCxucrtox/view?usp=sharing){target="_blank"} \| [CEPR Discussion Paper](https://cepr.org/publications/dp18729){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
-  Abstract
-</a> <br>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body no-border">
-    This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population.  We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration. </div>
-</div>
+[Earlier title: "Taxed Out? How Early 20th Century Regional Tax Adoptions Shaped Interstate Firm Relocations"]{.paper-meta}
 
-**Selected Work in Progress**
+[Latest Version](https://drive.google.com/file/d/1idrsD_MqsqWU3ZRCHVjIHrHDyECoU2Ji/view?usp=sharing){.paper-link target="_blank"} [Oxford CBT Working Paper](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp25.09-stefan-smutny.pdf){.paper-link target="_blank"} [Abstract](#abs-relocations){.paper-link data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="abs-relocations"}
 
+:::: {#abs-relocations .collapse}
+::: abstract
+Are firms relocating in response to the introduction of a corporate income tax? This paper explores the effects of corporate income tax adoptions on interstate firm relocations in the US during the early 20th century. The historical context allows for an investigation of unharmonized and sequential regional tax adoptions between 1910 and 1930, when 16 states introduced taxation on corporate income. Leveraging newly linked employer-level data, together with a structural gravity model, enables a quantification of firm relocation flows caused by tax adoptions. The partial equilibrium analysis reveals a significant increase in average interstate firm flows by 13.02% attributable to these tax adoptions, where disaggregation by sector demonstrates pronounced effects for manufacturing, mercantile, service, and utility businesses. These effects decrease in the distance to the state border. Counterfactuals show that firm outflow in early adopter states would have been significantly lower without the introduction of the income tax, while non-adopters would have observed slightly larger outflows.
+:::
+::::
+:::::
 
-- **The Marshall Plan in Austria** (joint with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"})
-<div style="margin-top: -0.8rem; margin-bottom: 0.2rem;">
-  - *Anniversary Fund of the Oesterreichische Nationalbank*
-  </div>
+::::: paper
+[A Taxing Journey: Tax Adoptions and Interstate Migration in the Early 20th Century]{.paper-title}
 
+[with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"}]{.paper-meta}
 
-- **Fiscal Stabilization with a Shared Government** (joint with [Christian Gréus](https://www.ifo.de/en/greus-c){target="_blank"}) \| *Draft coming soon!* \|
-   <a data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
-  Abstract
-</a> <br>
-<div class="collapse" id="collapseExample2" style="border: none;">
-  <div class="card card-body no-border">
-    Does fiscal decentralization constrain macroeconomic stabilization? We develop a formal framework in which decentralization has a fiscal-space-maximizing optimum. Exceeding this optimum generates a double bind: central discretionary capacity declines while subnational efforts fail to compensate due to worsening coordination failures. Using panel local projections for 37 countries from 1990 to 2021 and a novel composite measure integrating expenditure shares with institutional autonomy, we find strong empirical support for our theoretical predictions. Higher decentralization constrains central discretionary responses to output gaps, subnational governments actively counter national shocks. While this contradicts the notion of subnational passivity, their interventions fail to stabilize national output, with effectiveness turning negative at high decentralization levels. The key challenge is not decentralization per se but the coordination failures that prevent subnational initiatives from translating into effective national stabilization. </div>
-</div>
+[Latest Version](https://drive.google.com/file/d/1TFStq97dHhxE_um10eeLCwTjCxucrtox/view?usp=sharing){.paper-link target="_blank"} [CEPR Discussion Paper](https://cepr.org/publications/dp18729){.paper-link target="_blank"} [Abstract](#abs-migration){.paper-link data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="abs-migration"}
 
-- **Hidden Military Financing** (joint with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"})
+:::: {#abs-migration .collapse}
+::: abstract
+This paper examines the relationship between sequential income tax adoptions and interstate migration in US states between 1900 and 1930. Exploiting the sequential introduction of personal and corporate state income taxes, we analyze matched full-count US census data to explore the causal links between state income tax introductions and migration patterns. To guide our empirical approach, we develop a simple migration gravity model with multilateral resistance. Employing a three-way fixed effects Poisson Pseudo-Maximum Likelihood (FE-PPML) framework, we estimate the gravity equation, incorporating a tax introduction indicator. Our findings indicate that the implementation of personal state income taxes lead to an 8.7% increase in internal migration. The adoption of corporate state income taxes is associated with a larger overall rise in internal migration (11.3%) across the population. Our results are robust to other interstate migration trends and hold across different subgroups of the population. We conclude that income tax adoptions had substantial implications for interstate migration during this period, potentially operating through two distinct channels. First, the direct taxation of personal income influenced migration decisions. Second, the introduction of corporate income taxes prompted business relocation, which, in turn, affected migration.
+:::
+::::
+:::::
 
-- **Corporate Tax Compliance under Enforcement Misperception** (joint with [Philipp Heil](https://sites.google.com/view/philipp-heil/start){target="_blank"} & [Pascal Zamorski](https://www.ifo.de/en/zamorski-p){target="_blank"})
+### Selected Work in Progress
 
-- **Migrants of Influence: Skill Levels and the Effects on International Trade** (joint with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}) \|
-  [Latest Version](https://drive.google.com/file/d/1t8L7Jj5MSBhZhVJQYEr1DryyB3HkUiO-/view){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="cursor: pointer; text-decoration: underline; color: #eb6864;">
-  Abstract
-</a> <br>
-<div class="collapse" id="collapseExample3" style="border: none;">
-  <div class="card card-body no-border">
-    Migration helps to circumnavigate trade barriers, and hence multilateral resistance, by decreasing information asymmetry. Hereby, the skill level of migrants is of first order importance. We develop a tractable model of international trade adjusting for firm-level heterogeneity in worker's skill level. This helps us to identify a gravity formulation which explicitly models high skilled in-migration as a reduction in iceberg costs. We then test this hypothesis by estimating the structural gravity equation directly with PPML with a full set of fixed effects, allowing to control for the universe of potential multilateral resistances. We find a significant effect of migration on trade flows. This effect is strictly increasing in the skill level. Therefore, providing empirical support to our theoretical conjecture. </div>
-</div>
+::::: paper
+[The Marshall Plan in Austria]{.paper-title}
 
+[with [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"}]{.paper-meta}
 
+[Funded by the Anniversary Fund of the Oesterreichische Nationalbank]{.paper-tag}
+:::::
 
-**Technical Notes, Data and Policy Work**
+::::: paper
+[Fiscal Stabilization with a Shared Government]{.paper-title}
 
-- **Digitization of US Firm-Level Data in the 19th Century** (joint with [Claudia Steinwender](https://sites.google.com/site/clsteinwender/){target="_blank"})
+[with [Christian Gréus](https://www.ifo.de/en/greus-c){target="_blank"}]{.paper-meta}
 
-- **Flow Direction of Gravity Equations with Balanced Data** \|
-  [Note](https://drive.google.com/file/d/1nTiauB2LX-74UdGsLRscIwY3Z6u-Rucq/view?usp=sharing){target="_blank"}
+[Draft coming soon]{.paper-tag} [Abstract](#abs-stabilization){.paper-link data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="abs-stabilization"}
 
-- **The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic** (with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng) \| [CROWE University of Wisconsin-Madison, April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){target="_blank"} <br style="margin-bottom: 0.2rem;">
+:::: {#abs-stabilization .collapse}
+::: abstract
+Does fiscal decentralization constrain macroeconomic stabilization? We develop a formal framework in which decentralization has a fiscal-space-maximizing optimum. Exceeding this optimum generates a double bind: central discretionary capacity declines while subnational efforts fail to compensate due to worsening coordination failures. Using panel local projections for 37 countries from 1990 to 2021 and a novel composite measure integrating expenditure shares with institutional autonomy, we find strong empirical support for our theoretical predictions. Higher decentralization constrains central discretionary responses to output gaps, subnational governments actively counter national shocks. While this contradicts the notion of subnational passivity, their interventions fail to stabilize national output, with effectiveness turning negative at high decentralization levels. The key challenge is not decentralization per se but the coordination failures that prevent subnational initiatives from translating into effective national stabilization.
+:::
+::::
+:::::
 
+::::: paper
+[Blame Shifting]{.paper-title}
+
+[with [Niklas Potrafke](https://sites.google.com/view/niklas-potrafke){target="_blank"} & [Tuuli Tähtinen](https://sites.google.com/view/tuulitahtinen){target="_blank"}]{.paper-meta}
+:::::
+
+::::: paper
+[Corporate Tax Compliance under Enforcement Misperception]{.paper-title}
+
+[with [Philipp Heil](https://sites.google.com/view/philipp-heil/start){target="_blank"} & [Pascal Zamorski](https://www.ifo.de/en/zamorski-p){target="_blank"}]{.paper-meta}
+:::::
+
+::::: paper
+[The Welfare Effects of Wasting Talents]{.paper-title}
+
+[with [Ashim Dubey](https://sites.google.com/view/ashim-dubey){target="_blank"}, [Gabriele Gurrieri](https://www.ifo.de/en/gurrieri-g){target="_blank"} & [Sebastian Schirner](https://schirnersebastian.github.io/){target="_blank"}]{.paper-meta}
+:::::
+
+### Technical Notes, Data and Policy Work
+
+::::: paper
+[Digitization of Austrian Firm-Level ERP Credit Data in the 20th Century]{.paper-title}
+
+[with [Stanislaus Ruhaltinger](https://www.wu.ac.at/geschichte/institut/personal){target="_blank"} & [Kirsten Wandschneider](https://www.geschichte.uni-frankfurt.de/184462479/Prof__Dr__Kirsten_Wandschneider){target="_blank"}]{.paper-meta}
+:::::
+
+::::: paper
+[Digitization of US Firm-Level Data in the 19th Century]{.paper-title}
+
+[with [Claudia Steinwender](https://sites.google.com/site/clsteinwender/){target="_blank"}]{.paper-meta}
+:::::
+
+::::: paper
+[Flow Direction of Gravity Equations with Balanced Data]{.paper-title}
+
+[Note](https://drive.google.com/file/d/1nTiauB2LX-74UdGsLRscIwY3Z6u-Rucq/view?usp=sharing){.paper-link target="_blank"}
+:::::
+
+::::: paper
+[The Impact of Increased Unemployment Benefits During the COVID-19 Pandemic]{.paper-title}
+
+[with Noah Williams, Junjie Guo, Arwa Alalwani, Zhi Jiang, Jiashun Pang and Linhua Zeng]{.paper-meta}
+
+[CROWE, UW-Madison · April 2021](https://crowe.wisc.edu/2021/04/01/the-impact-of-increased-unemployment-benefits-during-the-covid-19-pandemic/){.paper-link target="_blank"}
+:::::
 
 ## Teaching
 
-- Principles of Fiscal Federalism (Graduate Level) \| LMU \| 2026
+::::: paper
+[Principles of Fiscal Federalism]{.paper-title}
 
-- UE Introductory Econometrics (Graduate Level) \| University of Vienna \| 2022 - 2025
-    
-    
-   
-    
-    
-    
+[Graduate level · LMU Munich · 2026]{.paper-meta}
+:::::
+
+::::: paper
+[Introductory Econometrics]{.paper-title}
+
+[Graduate level · University of Vienna · 2022–2025]{.paper-meta}
+:::::
